@@ -1,0 +1,125 @@
+Console file during the execution:
+
+Deleted the file: csv1.csv
+Deleted the file: csv1.csv
+CSV File created
+Alert !!! New file added to watch directory---> C:\DemoWorkSpace\Exercise\Resource2\
+Alert !!! New file added to watch directory---> C:\DemoWorkSpace\Exercise\Resource2\
+Breaking out of loop as watch key null 
+10 Seconds waiting before running the next scenario
+
+
+
+Expected Error Line--->  2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+Printing next 5 Lines after found the expected Error 500 Server error
+1 Line--> 2012-02-03 18:35:34 SampleClass2 [DEBUG] detail for id 2059812448
+2 Line--> 2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 766423792
+3 Line--> 2012-02-03 18:35:34 SampleClass3 [TRACE] verbose detail for id 671674205
+4 Line--> 2012-02-03 18:35:34 SampleClass3 [DEBUG] detail for id 2146263624
+5 Line--> 2012-02-03 18:35:34 SampleClass1 [TRACE] verbose detail for id 619472373
+******************************************************
+Expected Error Line--->  2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+Printing next 5 Lines after found the expected Error 500 Server error
+1 Line--> 2012-02-03 18:35:34 SampleClass1 [DEBUG] detail for id 1522968690
+2 Line--> 2012-02-03 18:35:34 SampleClass1 [TRACE] verbose detail for id 173216708
+3 Line--> 2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 1089864222
+4 Line--> 2012-02-03 18:35:34 SampleClass0 [DEBUG] detail for id 778459926
+5 Line--> 2012-02-03 18:35:34 SampleClass2 [TRACE] verbose detail for id 775158107
+******************************************************
+Expected Error Line--->  2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+Printing next 5 Lines after found the expected Error 500 Server error
+1 Line--> 2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 309815198
+2 Line--> 2012-02-03 18:35:34 SampleClass3 [TRACE] verbose detail for id 468333359
+3 Line--> 2012-02-03 18:35:34 SampleClass8 [DEBUG] detail for id 1825950524
+4 Line--> 2012-02-03 18:35:34 SampleClass1 [TRACE] verbose detail for id 1437966113
+5 Line--> 2012-02-03 18:35:34 SampleClass9 [TRACE] verbose detail for id 224128931
+******************************************************
+Expected Error Line--->  2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+Printing next 5 Lines after found the expected Error 500 Server error
+1 Line--> 2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 1270949141
+2 Line--> 2012-02-03 18:35:34 SampleClass8 [TRACE] verbose detail for id 2013059990
+3 Line--> 2012-02-03 18:35:34 SampleClass5 [INFO] everything normal for id 739587626
+4 Line--> 2012-02-03 18:35:34 SampleClass3 [DEBUG] detail for id 552130153
+5 Line--> 2012-02-03 18:35:34 SampleClass7 [TRACE] verbose detail for id 1100232257
+******************************************************
+Expected Error Line--->  2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+Printing next 5 Lines after found the expected Error 500 Server error
+1 Line--> 2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 542803217
+2 Line--> 2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 1314166755
+3 Line--> 2012-02-03 18:40:36 SampleClass4 [DEBUG] detail for id 1098585196
+4 Line--> 2012-02-03 18:40:36 SampleClass8 [TRACE] verbose detail for id 991407675
+5 Line--> 2012-02-03 18:40:36 SampleClass9 [WARN] missing id 715082426
+******************************************************
+WARNING... 500 Server error message found: 5 times in the log file!
+
+
+
+Expected Error Line--->  2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+Printing next 6 Lines after found the expected Error 500 Server error
+1 Line--> 2012-02-03 18:35:34 SampleClass3 [TRACE] verbose detail for id 1739786736
+2 Line--> 2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 792309118
+3 Line--> 2012-02-03 18:35:34 SampleClass1 [DEBUG] detail for id 1142802377
+4 Line--> 2012-02-03 18:35:34 SampleClass2 [TRACE] verbose detail for id 1559025043
+5 Line--> 2012-02-03 18:35:34 SampleClass7 [TRACE] verbose detail for id 40752315
+6 Line--> 2012-02-03 18:35:34 SampleClass8 [DEBUG] detail for id 499737644
+******************************************************
+Expected Error Line--->  2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+Printing next 6 Lines after found the expected Error 500 Server error
+1 Line--> Test test test and Test
+2 Line--> following line test
+3 Line--> 2012-02-03 18:35:34 SampleClass2 [DEBUG] detail for id 2059812448
+4 Line--> 2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 766423792
+5 Line--> 2012-02-03 18:35:34 SampleClass3 [TRACE] verbose detail for id 671674205
+6 Line--> 2012-02-03 18:35:34 SampleClass3 [DEBUG] detail for id 2146263624
+******************************************************
+Expected Error Line--->  2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+Printing next 6 Lines after found the expected Error 500 Server error
+1 Line--> 2012-02-03 18:35:34 SampleClass1 [DEBUG] detail for id 1522968690
+2 Line--> 2012-02-03 18:35:34 SampleClass1 [TRACE] verbose detail for id 173216708
+3 Line--> 2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 1089864222
+4 Line--> 2012-02-03 18:35:34 SampleClass0 [DEBUG] detail for id 778459926
+5 Line--> 2012-02-03 18:35:34 SampleClass2 [TRACE] verbose detail for id 775158107
+6 Line--> 2012-02-03 18:35:34 SampleClass8 [TRACE] verbose detail for id 1143165501
+******************************************************
+Expected Error Line--->  2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+Printing next 6 Lines after found the expected Error 500 Server error
+1 Line--> 2012-02-03 18:35:34 SampleClass9 [INFO] everything normal for id 1916666627
+2 Line--> 2012-02-03 18:35:34 SampleClass7 [TRACE] verbose detail for id 1530726118
+3 Line--> 2012-02-03 18:35:34 SampleClass3 [TRACE] verbose detail for id 38243257
+4 Line--> 2012-02-03 18:35:34 SampleClass7 [DEBUG] detail for id 1268939592
+5 Line--> 2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+6 Line--> 2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 309815198
+******************************************************
+Expected Error Line--->  2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+Printing next 6 Lines after found the expected Error 500 Server error
+1 Line--> 2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 1270949141
+2 Line--> 2012-02-03 18:35:34 SampleClass8 [TRACE] verbose detail for id 2013059990
+3 Line--> 2012-02-03 18:35:34 SampleClass5 [INFO] everything normal for id 739587626
+4 Line--> 2012-02-03 18:35:34 SampleClass3 [DEBUG] detail for id 552130153
+5 Line--> 2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+6 Line--> 2012-02-03 18:35:34 SampleClass7 [TRACE] verbose detail for id 1100232257
+******************************************************
+Expected Error Line--->  2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+Printing next 6 Lines after found the expected Error 500 Server error
+1 Line--> 2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 542803217
+2 Line--> 2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 1314166755
+3 Line--> 2012-02-03 18:40:36 SampleClass4 [DEBUG] detail for id 1098585196
+4 Line--> 2012-02-03 18:40:36 SampleClass8 [TRACE] verbose detail for id 991407675
+5 Line--> 2012-02-03 18:40:36 SampleClass9 [WARN] missing id 715082426
+6 Line--> 2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 480000858
+******************************************************
+Expected Error Line--->  2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+Printing next 6 Lines after found the expected Error 500 Server error
+1 Line--> 2012-02-03 18:40:36 SampleClass2 [TRACE] verbose detail for id 353289318
+2 Line--> 2012-02-03 18:40:36 SampleClass9 [DEBUG] detail for id 1070329362
+3 Line--> 2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 427454552
+4 Line--> 2012-02-03 18:40:36 SampleClass0 [TRACE] verbose detail for id 1720312947
+5 Line--> 2012-02-03 20:11:56 SampleClass7 [TRACE] verbose detail for id 1560323914
+6 Line--> 2012-02-03 20:11:56 SampleClass8 [DEBUG] detail for id 2083681507
+******************************************************
+Expected Error Line--->  2012-02-03 18:35:34 SampleClass4 [INFO] 500 Server error
+Printing next 6 Lines after found the expected Error 500 Server error
+1 Line--> 2012-02-03 20:11:56 SampleClass3 [INFO] everything normal for id 530537821
+2 Line--> End Of the Line
+******************************************************
+WARNING... 500 Server error message found: 8 times in the log file!
